@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConstraintLayoutSample</string>
+    <string name="str">工作当中常常会有很多个控件同时隐藏或者显示的场景，传统做法要么是进行嵌套，对父布局进行隐藏或显示，要么就是一个一个设置，这显然都不是很好的办法，ConstraintLayout中的Group就是来解决这个问题的。Group的作用就是可以对一组控件同时隐藏或显示，没有其他的作用，它的属性如下： 作者：Quyunshuo 链接：https://juejin.cn/post/6949186887609221133 来源：稀土掘金 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。</string>
+</resources>
